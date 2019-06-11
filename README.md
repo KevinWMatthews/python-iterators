@@ -2,13 +2,14 @@
 
 Exploration of Python generators and how they work.
 
+Supporting content for
+[this blog post](https://blog.kevinwmatthews.com/iterators-in-python/).
+
 
 ## Background
 
 Python provides `for` loops for looping over a collection of items. These example
 scripts illustrate Python-level details of how this works.
-
-The scripts are content for [this blog post](https://blog.kevinwmatthews.com/iterators-in-python/).
 
 
 ## Setup
