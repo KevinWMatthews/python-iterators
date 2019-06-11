@@ -1,6 +1,6 @@
 # Introduction to Iterators in Python
 
-Exploration of Python generators and how they work.
+Exploration of Python iterators and how they work.
 
 Supporting content for
 [this blog post](https://blog.kevinwmatthews.com/iterators-in-python/).
