@@ -8,8 +8,9 @@ Supporting content for
 
 ## Background
 
-Python provides `for` loops for looping over a collection of items. These example
-scripts illustrate Python-level details of how this works.
+Python provides `for` loops for looping over a collection of items.
+Iterators are the supporting concept that makes this work.
+These example scripts illustrate Python-level details of how this works.
 
 
 ## Setup
