@@ -12,6 +12,9 @@ class Iterator:
         self.index = 0
         self.max_index = len(collection)
 
+    def __iter__(self):
+        return self
+
     def __next__(self):
         if self.index >= self.max_index:
             raise StopIteration
